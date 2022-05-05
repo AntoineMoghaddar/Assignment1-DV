@@ -8,8 +8,8 @@ this years assignment is ESports with its focus on racing simulation. With this 
 a research currently being conducted by the ESportsLab. The results of your visualisations will be used for evaluati<br><br>This document will provide you all the necessary information to
 proceed with this assignment.
 
-Let's first start by getting the variables that correlate to your group number.
-<br>Please enter your group number --> <input type="number" id="teamid" name="teamid"/> <input type="submit" value="Request Group">
+[comment]: <> (Let's first start by getting the variables that correlate to your group number.)
+[comment]: <> (<br>Please enter your group number --> <input type="number" id="teamid" name="teamid"/> <input type="submit" value="Request Group">)
 
 ## The Contents
 
@@ -39,14 +39,18 @@ Let's first start by getting the variables that correlate to your group number.
 [todo] include information on ESports and Research
 
 ## The Assignment
-For the assignment, several datasets are recorded. These recordings contain laps that have been driven by various drivers<br>from all classifications.
-As the level of expertise differs per driver, the datasets vary a lot, making analysis on these datasets<br>more interesting.
-The aim of these assignments is to identify differences in driver performance, to pinpoint the elements that<br>require improvement and to obtain insights into specific driver performances.<br>
+For the assignment, several datasets are recorded. These recordings contain laps that have been driven by various drivers from all classifications.
+As the level of expertise differs per driver, the datasets vary a lot, making analysis on these datasets more interesting.
+The aim of these assignments is to identify differences in driver performance, to pinpoint the elements that require improvement and to obtain insights into specific driver performances.<br>
 
-The assignment is subdivided into 6 sections. The aim for the first section of the assignment is to provide you with a<br>
-basic understanding of the composition of the dataset. Here you are asked to perform simple visualizations based on the<br>
-variables that you have been provided with. The second part of the assignment is to gain deeper knowledge on the<br> variables, combine and compute variables and to put variables in a time sequence.
-Continuing forward, the third assignment is on the comparison of the variables among different drivers over a specified time sequence.<br>
+The assignment is subdivided into 6 sections. The aim for the first section of the assignment is to provide you with a
+basic understanding of the composition of the dataset. Here you are asked to perform simple visualizations based on the
+variables that you have been provided with. The second part of the assignment is to gain deeper knowledge on the variables, combine and compute variables and to put variables in a time sequence.
+Continuing forward, the third assignment is on the comparison of the variables among different drivers over a specified time sequence
+
+> The analysis that we will do in the assignments will be based Circuit Zandvoort. Later, in the last part of this assignment, you will get the opportunity to work with different circuits than Zandvoort.
+> Circuit Zandvoort has a total of 3 Segments divided as follows
+> ![Circuit Zandvoort](./Assets/zandvoort.png)
 
 
 > We want to encourage you to play around with different visualisation types to enhance and brighten up the story you want to convey with your visualizations.
@@ -65,29 +69,24 @@ Continuing forward, the third assignment is on the comparison of the variables a
 
 #### Assignment Section 1
 
-Within this first section, we lay the basic foundation of the assignment. The goal is to get you familiarized with the<br>
-available elements and let you play with simple visualisations. This first assignment is, in its core, equal for all<br>
-students. However, every student duo has received two different variables which should yield different types of<br>
-visualisations. The dataset that can be used for this assignment is [TODO: insert dataset]. <br>Within this assignment, the x-axis is the performance element
-The thirs 
-Given the variables [V1] and [V2], visualize and analyse the following:
-> 1) Plot the two variables independently into two different visualizations. <br>What is your analysis per variable? <br><br>
-> 2) Plot the two variables dependently into one visualisation. <br>How do these variables correlate to each other?
+> Within this first section, we lay the basic foundation of the assignment. The goal is to get you familiarized with the<br>
+> available elements and let you play with simple visualisations. This first assignment is, in its core, equal for all<br>
+> students. However, every student duo has received two different variables which should yield different types of<br>
+> visualisations. The dataset that can be used for this assignment is [TODO: insert dataset]. <br>Within this assignment, the x-axis is the performance element <br><br>
+> Given the variables [V1] and [V2], visualize and analyse the following:<br>
+> 1. Plot the two variables independently into two different visualizations.
+>     1. What is your analysis per variable? <br><br>
+> 2. Plot the two variables dependently into one visualisation. 
+>     1. How do these variables correlate to each other?
 
 ***
 
 #### Assignment Section 2
 
-The second section of the assignment is about digging deeper into the driver performances. This is where we want to see<br>
-the correlations and the key differences between (and within) laps and track segments. You have been provided with various datasets that<br>
-each correlate to one specific driver and his/her performances. We want to display the variables [V1] and [V2] against the<br>
-same variables from a differrent lap and/or segment. For your group, the datasets that you can use is [D1]. 
-
-> The analysis that we will do in this assignment will be based on both _track segments_ and _laps_ driven. 
-> Circuit Zandvoort has a total of 3 Segments divided as follows
-> ![Circuit Zandvoort](./Assets/zandvoort.png)
-
-
+> The second section of the assignment is about digging deeper into the driver performances. This is where we want to see<br>
+> the correlations and the key differences between (and within) laps and track segments. You have been provided with various datasets that<br>
+> each correlate to one specific driver and his/her performances. We want to display the variables [V1] and [V2] against the<br>
+> same variables from a differrent lap and/or segment. For your group, the datasets that you can use is [D1].
 > **TODO Check the assignment on correctness** 
 > 1. Lap Focused analysis
 >     1. Over the duration of a lap, what analysis can you deduce from [V1]? Show this within a visualization and explain what the potential causes for this behaviour are.
@@ -101,18 +100,28 @@ same variables from a differrent lap and/or segment. For your group, the dataset
 ***
 
 ##### Assignment Section 3
-Within this assignment we want to obtain a new perspective from comparing multiple drivers to see how drivers behave
-<br>and whether there can be defined a _standardized_ behaviour for certain events during a session. We want to analyse the
-<br> differences among different drivers to gain insights in how driver behave in certain situations and whether this behaviour
-<br>is the most efficient way to behave. For simplicity, we have recorded a set of different datasets containing data from
-<br>multiple drivers with different skill levels. Every dataset contains a set of approximately 18 recorded laps
+> Within this assignment we want to obtain a new perspective from comparing multiple drivers to see how drivers behave
+> <br>and whether there can be defined a _standardized_ behaviour for certain events during a session. We want to analyse the
+> <br> differences among different drivers to gain insights in how driver behave in certain situations and whether this behaviour
+> <br>is the most efficient way to behave. For simplicity, we have recorded a set of different datasets containing data from
+> <br>multiple drivers with different skill levels. Every dataset contains a set of approximately 18 recorded laps
+> 
+> 
+> 
+> 
+>
 
 ***
 
 ##### Assignment Section 4
-In this section, we want to exploit the visualisations and analysis that we have made before and produce an insightful
-<br>dashboard for the end-user. The aim of this assignment is to teach you have to tell a story with research that you have
-<br>conducted
+> In this section, we want to exploit the visualisations and analysis that we have made before and produce an insightful
+> <br>dashboard for the end-user. The aim of this assignment is to teach you have to tell a story with research that you have
+> <br>conducted
+>
+> 
+> 
+> 
+
 
 ***
 
@@ -122,7 +131,7 @@ The grading criteria is defined as follows
 
 | Section # | Minimal Requirements | # Points to obtain | 
 | --------- | ----------- | --------- |
-| Section 1 | [x] Three "logical" data visualisations using two different variables,<br>2) A brief analysis on the output of each visualisation. | 10 Points |
+| Section 1 | 1) Three "logical" data visualisations using two different variables,<br>2) A brief analysis on the output of each visualisation. | 10 Points |
 | Section 2 | | 20 Points |
 | Section 3 | | 30 Points |
 | Section 4 | | 10 Points |
