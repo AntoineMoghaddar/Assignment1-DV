@@ -1,6 +1,6 @@
 # Data Visualizations - Assignment 1
 
-### _The Era of Simulation & Visualization_ ✨
+### _The Era of Simulation & Visualization_ :rocket: 
 
 Welcome to the assignment of the Data Visualization 2022 course. The assignment of this year is composed from a
 collaboration between the UTwente ESportsLab and the Creative Technology Data Visualization Course. Hence, the theme of
