@@ -2,9 +2,9 @@
 
 ### _The Era of Simulation & Visualization_ ✨
 
-Welcome to the assignment of the Data Visualization 2022 course. The assignment of this year is composed from a<br>
-collaboration between the UTwente ESportsLab and the Creative Technology Data Visualization Course. Hence, the theme of<br>
-this years assignment is ESports with its focus on racing simulation. With this assignment, you will be participating in<br>
+Welcome to the assignment of the Data Visualization 2022 course. The assignment of this year is composed from a
+collaboration between the UTwente ESportsLab and the Creative Technology Data Visualization Course. Hence, the theme of
+this years assignment is ESports with its focus on racing simulation. With this assignment, you will be participating in
 a research currently being conducted by the ESportsLab. The results of your visualisations will be used for evaluati<br><br>This document will provide you all the necessary information to
 proceed with this assignment.
 
