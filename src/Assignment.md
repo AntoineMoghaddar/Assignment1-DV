@@ -122,7 +122,7 @@ The grading criteria is defined as follows
 
 | Section # | Minimal Requirements | # Points to obtain | 
 | --------- | ----------- | --------- |
-| Section 1 | 1) Three "logical" data visualisations using two different variables,<br>2) A brief analysis on the output of each visualisation. | 10 Points |
+| Section 1 | [x] Three "logical" data visualisations using two different variables,<br>2) A brief analysis on the output of each visualisation. | 10 Points |
 | Section 2 | | 20 Points |
 | Section 3 | | 30 Points |
 | Section 4 | | 10 Points |
